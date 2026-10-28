@@ -13,16 +13,17 @@ I'm pursuing my Master of Computer Applications at Jaypee Institute of Informati
 
 ## 🚀 Featured Projects
 
-### Train Profile Builder | Technical Case Study
+### [Train Profile Builder | Technical Case Study](https://github.com/AmanBytess/Train-Profile-Builder-Case-Study)
+
 A documentation-focused showcase of an RFID-based train profiling project, covering sensor-data processing, train-profile construction, validation, and dashboard visualization.
 
-[View the case study](https://github.com/AmanBytess/Train-Profile-Builder-Case-Study)
+### [ChessCraft](https://github.com/AmanBytess/ChessCraft)
 
-### ChessCraft
-A Java chess project exploring object-oriented programming, design patterns, and chess rules.
+A Java chess engine demonstrating object-oriented programming, design patterns, chess rules, and undo/redo functionality.
 
-### Parking Lot System
-A Java project demonstrating object-oriented design and data structures for parking-slot management.
+### [Parking Lot System](https://github.com/AmanBytess/Parking-Lot-System)
+
+A Java-based multi-floor parking simulation using Stack, Queue, and HashMap for parking-slot management.
 
 ## 🎓 Education
 
